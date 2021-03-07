@@ -5,7 +5,7 @@ The customer focus was on Electronic products, mainly Laptops, Headphones, Proce
 No sales nor product data were provided by the customer.  
 Our team had to first focus on knowing the domain in details, understand the business model and then look for appropriate data sources to come up with conlusions and strategies to determine strenghts and weaknesses of this form of business.
 
-<p align="center">![image](https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png)</p>
+<p align="center"><![image](https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png)></p>
 
 
 
