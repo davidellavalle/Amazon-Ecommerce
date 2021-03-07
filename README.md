@@ -36,4 +36,7 @@ When thinking about Business models are 4 the traditional types:
 **C2B (Consumer-to-Business)** - Exact inverse of the traditional model in which companies offer goods and services to consumers. Eg. The author of a piece of content offers a link to an online business, thus facilitating the purchase of a product (e.g. a book on Amazon.com), for which the author could receive part of the earnings.  
 **C2C (Consumer-to-Consumer)** - The opportunity offered by several websites like Ebay to sell unused or redondant stuff online thanks to payment systems like Paypal.
 
-
+What are the three top Ecommerce businesses in Europe?
+1 - Amazon $28 Billion   
+2 - Otto $12 Billion  
+3 - John Lewis $7,5 Billion  
