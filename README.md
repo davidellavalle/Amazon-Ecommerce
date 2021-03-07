@@ -61,12 +61,17 @@ To gather data from websites, we used a technique called Web scraping which is b
 </p>
 
 This process can be manual (tedious and redundant) or fully automated thanks to entire ecosystems of multiple tools and libraries built for this extraction process.  
-The steps for a succesfull Web scraping are the following:
+
+The steps for a succesfull Web scraping are the following:  
  - Figure out what is needed to be extracted and locate the information on the webpage.
  - Send a request to the HTTP or website you are targeting.
  - The server processes the request and if legitimate we can then read and extract the HTML or CSS of the page  
-A deep knowledge of HTML is not needed, the foundation will be enough, know what the unique attributes are, ids, classes etc..., navigate the dom(documnet object model - model or tree of layout for a website, how is the data structured?)
-- The Information is then saved in the set variables - beautifulsoup is the library that can be used for parsing information
+A deep knowledge of HTML is not needed, the foundation will be enough, know what the unique attributes are, ids, classes etc..., navigate the dom (document object model - model or tree of layout for a website, how is the data structured?)
+- The Information is then saved in the set variables - Beautifulsoup is the library that can be used for parsing information.  
+
+Even though this seems to be an easy process a lot could go wrong: 
+- The owner of the website could introduce complexities to make the whole process tricky. 
+- The targeted website could block your account if the scraping process is too quick. This would generate .......
 
 
 
