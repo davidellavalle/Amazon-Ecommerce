@@ -10,11 +10,11 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 E-commerce is the purchasing, selling and exchanging goods and services over computer networks (internet) through which transaction or terms of sale are performed Electronically
 
-**Step by step**
-1 - A consumer uses a web browser to connect to the home page of a merchant‘s Website on the internet.
-2 - The consumer browses the catalog of products featured on the site and selects the items to purchase.
-3 - When the consumer is ready to complete the purchase, provides a bill-to and ship-to address for purchase and delivery.
-4 - Finally the consunmer provides the payment information, cc, and submit the order. Taxes, shipping and handling charges are included in the price.
+**Step by step**  
+1 - A consumer uses a web browser to connect to the home page of a merchant‘s Website on the internet.  
+2 - The consumer browses the catalog of products featured on the site and selects the items to purchase.  
+3 - When the consumer is ready to complete the purchase, provides a bill-to and ship-to address for purchase and delivery.  
+4 - Finally the consunmer provides the payment information, cc, and submit the order. Taxes, shipping and handling charges are included in the price.  
 
 All considered it seems to be a really easy way of doing business. Let's have now a look at the benefits:  
 
