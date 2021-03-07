@@ -41,6 +41,7 @@ When thinking about Business models are 4 the traditional types:
 **C2C (Consumer-to-Consumer)** - The opportunity offered by several websites like Ebay to sell unused or redondant stuff online thanks to payment systems like Paypal.
 
 What are the three top Ecommerce businesses in Europe?  
+
 1 - Amazon $28 Billion   
 2 - Otto $12 Billion  
 3 - John Lewis $7,5 Billion  
