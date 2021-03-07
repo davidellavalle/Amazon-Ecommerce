@@ -6,10 +6,11 @@ No sales nor product data were provided by the customer.
 Our team had to first focus on knowing the domain in details, understand the business model and then look for appropriate data sources to come up with conlusions and strategies to determine strenghts and weaknesses of this form of business.
 
 <p align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
+  <img width="500" height="350" src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
 </p>
 
 ## Business Understanding
+
 ### E-commerce
 
 ![image](https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png)
@@ -45,3 +46,11 @@ What are the three top Ecommerce businesses in Europe?
 1 - Amazon $28 Billion   
 2 - Otto $12 Billion  
 3 - John Lewis $7,5 Billion  
+
+## Data Understanding
+
+### Web Scraping
+
+One of best way to know your competitor is to look at what they show publicly on their websites. There are so much informations like product details, prices, customer reviews, product seller information etc. which can help you understand your competitor's business in a great extent.  
+To gather data from websites, you need to learn Web scraping which is basically a technique of extracting relevant information from websites.
+
