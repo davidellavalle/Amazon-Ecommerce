@@ -52,5 +52,11 @@ What are the three top Ecommerce businesses in Europe?
 ### Web Scraping
 
 One of best way to know your competitor is to look at what they show publicly on their websites. There are so much informations like product details, prices, customer reviews, product seller information etc. which can help you understand your competitor's business in a great extent.  
-To gather data from websites, you need to learn Web scraping which is basically a technique of extracting relevant information from websites.
+To gather data from websites, you need to learn Web scraping which is basically a technique of extracting relevant information from websites.  
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73824871/110249141-e9c70400-7f74-11eb-8e48-4b057a87ce37.png">
+</p>
+
+
 
