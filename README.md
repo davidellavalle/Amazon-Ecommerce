@@ -6,14 +6,16 @@ No sales nor product data were provided by the customer.
 Our team had to first focus on knowing the domain in details, understand the business model and then look for appropriate data sources to come up with conlusions and strategies to determine strenghts and weaknesses of this form of business.
 
 <p align="center">
-  <img width="500" height="350" src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
+  <img src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
 </p>
 
 ## Business Understanding
 
 ### E-commerce
 
-![image](https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png">
+</p>
 
 E-commerce is the purchasing, selling and exchanging goods and services over computer networks (internet) through which transaction or terms of sale are performed Electronically
 
