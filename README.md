@@ -9,7 +9,8 @@ Our team had to first focus on knowing the domain in details, understand the bus
   <img width="500" height="300" src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
 </p>
 
-## E-commerce
+## Business Understanding
+### E-commerce
 
 ![image](https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png)
 
