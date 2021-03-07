@@ -8,7 +8,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 ## E-commerce
 
-![Ecommerce](![image](https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png)
+(![image](https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png)
 
 E-commerce is the purchasing, selling and exchanging goods and services over computer networks (internet) through which transaction or terms of sale are performed Electronically
 
