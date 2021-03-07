@@ -8,6 +8,8 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 ## E-commerce
 
+![Ecommerce](https://unsplash.com/photos/Tl8mDaue_II)
+
 E-commerce is the purchasing, selling and exchanging goods and services over computer networks (internet) through which transaction or terms of sale are performed Electronically
 
 **Step by step**  
@@ -31,7 +33,7 @@ When thinking about Business models are 4 the traditional types:
 
 **B2B (Business-to-Business)** - The largest form of Ecommerce. Buyer and seller 2 different entities, similar to manufacturer issuing goods to retailer.  
 **B2C (Business-to-Consumer)** - In this case the business and the consumer have a direct trade and interaction. The sale of good or services is directly with the final customer.  
-**C2B (Consumer-to-Business)** - Exact inverse of the traditional model in which companies offer goods and services to consumers. Eg. The author of a piece of content offers a link to an online business, thus facilitating the purchase of a product (e.g. a book on Amazon.com), for which the author could receive part of the earnings.
+**C2B (Consumer-to-Business)** - Exact inverse of the traditional model in which companies offer goods and services to consumers. Eg. The author of a piece of content offers a link to an online business, thus facilitating the purchase of a product (e.g. a book on Amazon.com), for which the author could receive part of the earnings.  
 **C2C (Consumer-to-Consumer)** - The opportunity offered by several websites like Ebay to sell unused or redondant stuff online thanks to payment systems like Paypal.
 
 
