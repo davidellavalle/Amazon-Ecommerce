@@ -41,7 +41,7 @@ When thinking about Business models are 4 the traditional types:
 **B2B (Business-to-Business)** - The largest form of Ecommerce. Buyer and seller 2 different entities, similar to manufacturer issuing goods to retailer.  
 **B2C (Business-to-Consumer)** - In this case the business and the consumer have a direct trade and interaction. The sale of good or services is directly with the final customer.  
 **C2B (Consumer-to-Business)** - Exact inverse of the traditional model in which companies offer goods and services to consumers. Eg. The author of a piece of content offers a link to an online business, thus facilitating the purchase of a product (e.g. a book on Amazon.com), for which the author could receive part of the earnings.  
-**C2C (Consumer-to-Consumer)** - The opportunity offered by several websites like Ebay to sell unused or redondant stuff online thanks to payment systems like Paypal.
+**C2C (Consumer-to-Consumer)** - The opportunity offered by several websites like Ebay to sell unused or redundant stuff online thanks to payment systems like Paypal.
 
 What are the three top Ecommerce businesses in Europe?  
 
@@ -53,12 +53,22 @@ What are the three top Ecommerce businesses in Europe?
 
 ### Web Scraping
 
-One of best way to know your competitor is to look at what they show publicly on their websites. There are so much informations like product details, prices, customer reviews, product seller information etc. which can help you understand your competitor's business in a great extent.  
-To gather data from websites, you need to learn Web scraping which is basically a technique of extracting relevant information from websites.  
+One of best way to know your competitor is to look at what they show publicly on their websites. There are so much informations like product details, prices, customer reviews, product seller information etc. which can help understand the competitor's business in a great extent.  
+To gather data from websites, we used a technique called Web scraping which is basically a technique of extracting relevant information from websites.  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110249141-e9c70400-7f74-11eb-8e48-4b057a87ce37.png">
 </p>
+
+This process can be manual (tedious and redundant) or fully automated thanks to entire ecosystems of multiple tools and libraries built for this extraction process.  
+The steps for a succesfull Web scraping are the following:
+ - Figure out what is needed to be extracted and locate the information on the webpage.
+ - Send a request to the HTTP or website you are targeting.
+ - The server processes the request and if legitimate we can then read and extract the HTML or CSS of the page  
+A deep knowledge of HTML is not needed, the foundation will be enough, know what the unique attributes are, ids, classes etc..., navigate the dom(documnet object model - model or tree of layout for a website, how is the data structured?)
+- The Information is then saved in the set variables - beautifulsoup is the library that can be used for parsing information
+
+
 
 
 
