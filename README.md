@@ -7,7 +7,9 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
-</p>
+</p>  
+
+
 
 ## Business Understanding
 
@@ -49,6 +51,8 @@ What are the three top Ecommerce businesses in Europe?
 2 - Otto $12 Billion  
 3 - John Lewis $7,5 Billion  
 
+
+
 ## Data Understanding
 
 ### Web Scraping
@@ -67,11 +71,41 @@ The steps for a succesfull Web scraping are the following:
  - Send a request to the HTTP or website you are targeting.
  - The server processes the request and if legitimate we can then read and extract the HTML or CSS of the page  
 A deep knowledge of HTML is not needed, the foundation will be enough, know what the unique attributes are, ids, classes etc..., navigate the dom (document object model - model or tree of layout for a website, how is the data structured?)
-- The Information is then saved in the set variables - Beautifulsoup is the library that can be used for parsing information.  
+- The Information is finally saved in the set variables - Beautifulsoup is the library that can be used for parsing information.  
 
-Even though this seems to be an easy process a lot could go wrong: 
-- The owner of the website could introduce complexities to make the whole process tricky. 
-- The targeted website could block your account if the scraping process is too quick. This would generate .......
+### Scraping flow
+ 
+The following process has been repeated 8 times for 8 different Product types: Processors, Laptops, Cameras, Mouses, Monitors, Headphones, Smartphones, Keyboards.
+
+- The first step is to create a txt file (**Create search_urls.txt**) which will contain all the product pages. Through a for loop I will be able to scrape the website and get all the first 400 Urls (limit declared in the range).
+The output of this action is to be find in the **search_urls.txt**
+
+Once all the Urls have been scraped it is time to extract the information about the articles.  
+
+- Next a yml file is created (**search.yml**).  
+This type of language is used for configuration files and in applications where data is being stored or transmitted. In my case it will contain all the element paths from where the informations would be extracted and my goal is to get the components of the articles I am interested in.  
+I will be looking for multiple information like title, the Url, the rating given from the consumers, the review count and the price of each article.  
+
+- The search_urls.txt and the search.yml will be then used by the *search.py* as inputs and will produce as output the **search_output.jsonl**, a long list of articles with all the components information nested in a json file, and the **product_urls.txt** containing all urls of the single products for further scraping.
+
+The search.py uses different packages, libraries and file format like:  
+*Selectorlib* (a Python package for extracting data from a HTML Page) which will read the yml file and extract the data I marked up on the page.   
+
+*Requests* a Python library used to easily make HTTP requests and getting raw HTML content from websites.  
+
+*Json* (JavaScript Object Notation) is an open standard data format, used for storing and exchanging data.
+
+*fake_useragent* a library from which we will import *UserAgent*.
+
+- As the article components where not enough for my scope, more information about every article needed to be extracted therefore a **products.yml** was created to select informations from teh product pages. By looking in the CSS elements of several products I was able to understand where all information where hidden in the text and extract them. For this purpose I installed a [chrome extension](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb?hl=en) to use the [selector gadget](https://selectorgadget.com/)
+
+- Next I created the **product.py** which used the *product_urls.txt* and *products.yml* as inputs and gave me as output the **product_output.jsonl**  
+
+- Finally the json files where validated with [jsonlint](https://jsonlint.com/) and after exporting them to my Visual studio code notebook were ready for the long cleaning process until creatin of 2 csv files ready for further analysis through Mysql.
+
+
+## Data cleaning
+
 
 
 

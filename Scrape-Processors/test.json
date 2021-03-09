@@ -1,0 +1,1030 @@
+[{"name": "Intel Core i5-9400F Desktop Processor 6 Cores 4.1 GHz Turbo Without Graphics",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "2900 MHz"
+	}, {
+		"info": "Graphics Coprocessor",
+		"value": "No Integrated Graphics"
+	}, {
+		"info": "Number of USB 2.0 Ports",
+		"value": "1"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I59400F"
+	}, {
+		"info": "Item Weight",
+		"value": "3.53 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "6"
+	}, {
+		"info": "Computer Memory Type",
+		"value": "DDR4 SDRAM"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07MRCGQQ4"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "January 7, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 3,665 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#8 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "GIGABYTE B365M DS3H (LGA1151/Intel/Micro ATX/USB 3.1 Gen 1 (USB3.0) Type A/DDR4/Motherboard)",
+	"freq_bought_link": "/Gigabyte-B365M-DS3H-LGA1151-Motherboard/dp/B07T6N8N56/ref=pd_bxgy_2/147-0862419-7902641?_encoding=UTF8&pd_rd_i=B07T6N8N56&pd_rd_r=07bedea0-a7c4-460a-bfae-f778a14ee220&pd_rd_w=YxzpY&pd_rd_wg=OCYyx&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=W4PFWQ8WR01BQH3NXGGR&psc=1&refRID=W4PFWQ8WR01BQH3NXGGR",
+	"link_to_all_reviews": "/Intel-i5-9400F-Desktop-Processor-Graphics/product-reviews/B07MRCGQQ4/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Celeron G-5920 Desktop Processor 2 Cores 3.5 GHz LGA1200 (Intel 400 Series chipset) 58W, Model Number: BX80701G5920",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX80701G5920"
+	}, {
+		"info": "Item Weight",
+		"value": "9.6 ounces"
+	}, {
+		"info": "Package Dimensions",
+		"value": "4.69 x 4.25 x 2.83 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "2"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B086MG1C7P"
+	}, {
+		"info": "Date First Available",
+		"value": "May 27, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 5.0 out of 5 stars 4 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 5.0 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#89 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": null
+} ,{"name": "AMD Ryzen 5 3600 6-Core, 12-Thread Unlocked Desktop Processor with Wraith Stealth Cooler",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "AMD"
+	}, {
+		"info": "Series",
+		"value": "Ryzen 5"
+	}, {
+		"info": "Item model number",
+		"value": "Ryzen 5 3600"
+	}, {
+		"info": "Item Weight",
+		"value": "1.6 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "AMD"
+	}, {
+		"info": "Processor Count",
+		"value": "6"
+	}, {
+		"info": "Manufacturer",
+		"value": "AMD"
+	}, {
+		"info": "ASIN",
+		"value": "B07STGGQ18"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "July 1, 2019"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.9 out of 5 stars 24,303 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.9 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#1 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "Corsair Vengeance LPX 16GB (2x8GB) DDR4 DRAM 3200MHz C16 Desktop Memory Kit - Black",
+	"freq_bought_link": "/Corsair-Vengeance-3200MHz-Desktop-Memory/dp/B0143UM4TC/ref=pd_bxgy_2/139-1760594-9025820?_encoding=UTF8&pd_rd_i=B0143UM4TC&pd_rd_r=dbe513eb-a3c4-498c-93c5-ece16985d25e&pd_rd_w=p8vkj&pd_rd_wg=m5Xjn&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=R772WR4RXC2TCVJMXE2H&psc=1&refRID=R772WR4RXC2TCVJMXE2H",
+	"link_to_all_reviews": "/AMD-Ryzen-3600-12-Thread-Processor/product-reviews/B07STGGQ18/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "AMD Ryzen 9 3900X 12-core, 24-thread unlocked desktop processor with Wraith Prism LED Cooler",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "AMD"
+	}, {
+		"info": "Series",
+		"value": "Ryzen 9"
+	}, {
+		"info": "Item model number",
+		"value": "Ryzen 9 3900X"
+	}, {
+		"info": "Item Weight",
+		"value": "1.59 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "AMD"
+	}, {
+		"info": "Processor Count",
+		"value": "12"
+	}, {
+		"info": "Manufacturer",
+		"value": "AMD"
+	}, {
+		"info": "ASIN",
+		"value": "B07SXMZLP9"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "July 1, 2019"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.9 out of 5 stars 8,843 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.9 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#3 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "Samsung (MZ-V7E1T0BW) 970 EVO SSD 1TB - M.2 NVMe Interface Internal Solid State Drive with V-NAND\u2026",
+	"freq_bought_link": "/Samsung-970-EVO-1TB-MZ-V7E1T0BW/dp/B07BN217QG/ref=pd_bxgy_2/138-4209663-8377412?_encoding=UTF8&pd_rd_i=B07BN217QG&pd_rd_r=4794b843-8676-4cb0-9986-fbcfd8ec1121&pd_rd_w=TgCte&pd_rd_wg=GaEJu&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=YA3QZ0885HR247W1M0R7&psc=1&refRID=YA3QZ0885HR247W1M0R7",
+	"link_to_all_reviews": "/AMD-Ryzen-3900X-24-Thread-Processor/product-reviews/B07SXMZLP9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel BX80684I99900KF Intel Core i9-9900KF Desktop Processor 8 Cores up to 5.0 GHz Turbo Unlocked Without Processor Graphics LGA1151 300 Series 95W",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3600 MHz"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "I9-9900KF"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I99900KF"
+	}, {
+		"info": "Item Weight",
+		"value": "1.1 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 1.73 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 1.73 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07MGBZWDZ"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "January 7, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.6 out of 5 stars 1,151 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.6 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#17 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "ARCTIC MX-4 - Thermal Compound Paste For Coolers | Heat Sink Paste | Composed of Carbon Micro\u2026",
+	"freq_bought_link": "/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/ref=pd_bxgy_2/147-0891767-9303150?_encoding=UTF8&pd_rd_i=B0795DP124&pd_rd_r=f463ad0d-575e-4f20-9241-81c5f59e1f7c&pd_rd_w=IBNbj&pd_rd_wg=2EWcC&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=4FMJY11HERHQXCW53CF2&psc=1&refRID=4FMJY11HERHQXCW53CF2",
+	"link_to_all_reviews": "/Intel-BX80684I99900KF-i9-9900KF-Processor-Unlocked/product-reviews/B07MGBZWDZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i9-9900K Desktop Processor 8 Cores up to 5.0GHz Unlocked LGA1151 300 Series 95W (BX806849900K)",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX806849900K"
+	}, {
+		"info": "Item Weight",
+		"value": "3.2 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "6.3 x 10.24 x 3.15 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "6.3 x 10.24 x 3.15 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "1"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B089J731BX"
+	}, {
+		"info": "Date First Available",
+		"value": "June 1, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 383 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#13 in Computer CPU Processors"
+	}],
+	"seller": "Micom Pro",
+	"seller_link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2SNQ4AQTVSAXZ&isAmazonFulfilled=1",
+	"freq_bought": "ARCTIC MX-4 - Thermal Compound Paste For Coolers | Heat Sink Paste | Composed of Carbon Micro\u2026",
+	"freq_bought_link": "https://www.amazon.com/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/ref=pd_bxgy_2/134-8900329-1498353?_encoding=UTF8&pd_rd_i=B0795DP124&pd_rd_r=ee23a276-121a-4035-9d02-313cb2587860&pd_rd_w=ELWpD&pd_rd_wg=PgyHF&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=1V4KAXTJVTQS3BQG5QNX&psc=1&refRID=1V4KAXTJVTQS3BQG5QNX",
+	"link_to_all_reviews": "/Intel-i9-9900K-Processor-Unlocked-BX806849900K/product-reviews/B089J731BX/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i7-9700F Desktop Processor 8 Core 3 GHz speed (Up to 4.7 GHz) Without Processor Graphics LGA1151 300 Series 65W (BX80684I79700F)",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "Intel i7"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I79700F"
+	}, {
+		"info": "Item Weight",
+		"value": "3.53 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07S8DWXT3"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "May 15, 2019"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.7 out of 5 stars 496 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.7 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#28 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "Cooler Master Hyper 212 Evo CPU Cooler, 4 CDC Heatpipes, 120mm PWM Fan, Aluminum Fins for AMD Ryzen\u2026",
+	"freq_bought_link": "/Cooler-Master-Hyper-Direct-Contact/dp/B005O65JXI/ref=pd_bxgy_2/132-2730069-1949941?_encoding=UTF8&pd_rd_i=B005O65JXI&pd_rd_r=65fa1750-0787-44ff-b337-f766b1ca0661&pd_rd_w=8Au3v&pd_rd_wg=TsY9v&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=8WC9KKG4C22WY1VSY1KS&psc=1&refRID=8WC9KKG4C22WY1VSY1KS",
+	"link_to_all_reviews": "/Intel-i7-9700F-Desktop-Processor-Graphics/product-reviews/B07S8DWXT3/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "AMD Ryzen 7 3700X 8-Core, 16-Thread Unlocked Desktop Processor with Wraith Prism LED Cooler",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "AMD"
+	}, {
+		"info": "Series",
+		"value": "Ryzen 7"
+	}, {
+		"info": "Item model number",
+		"value": "Ryzen 7 3700X"
+	}, {
+		"info": "Item Weight",
+		"value": "1.4 pounds"
+	}, {
+		"info": "Product Dimensions",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "1.57 x 1.57 x 0.24 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "AMD"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Batteries",
+		"value": "1 Lithium ion batteries required."
+	}, {
+		"info": "Manufacturer",
+		"value": "AMD"
+	}, {
+		"info": "ASIN",
+		"value": "B07SXMZLPK"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "July 1, 2019"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.9 out of 5 stars 15,930 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.9 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#4 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/AMD-Ryzen-3700X-16-Thread-Processor/product-reviews/B07SXMZLPK/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i9-10850K Desktop Processor 10 Cores up to 5.2 GHz Unlocked LGA1200 (Intel 400 Series chipset) 125W",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "I9-10850K"
+	}, {
+		"info": "Item model number",
+		"value": "BX8070110850K"
+	}, {
+		"info": "Item Weight",
+		"value": "3.2 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "9.53 x 5 x 4.88 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "9.53 x 5 x 4.88 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "1"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B08DHRG2X9"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "July 27, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 271 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#19 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "ASUS ROG Strix Z490-E Gaming Z490 (WiFi 6) LGA 1200 (Intel 10th Gen) ATX Gaming Motherboard (14+2\u2026",
+	"freq_bought_link": "/ASUS-ROG-Strix-Gaming-Motherboard/dp/B086QSH67R/ref=pd_bxgy_2/146-7923944-7370936?_encoding=UTF8&pd_rd_i=B086QSH67R&pd_rd_r=f7f18f21-9eca-4aba-9b18-9c73de250674&pd_rd_w=cyMdc&pd_rd_wg=Kf9Xx&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=KDM76S5T8PSX7D87BJV5&psc=1&refRID=KDM76S5T8PSX7D87BJV5",
+	"link_to_all_reviews": "/Intel-i9-10850K-Desktop-Processor-Unlocked/product-reviews/B08DHRG2X9/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "AMD Ryzen 7 2700X Processor with Wraith Prism LED Cooler - YD270XBGAFBOX",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "AMD"
+	}, {
+		"info": "Item model number",
+		"value": "YD270XBGAFBOX"
+	}, {
+		"info": "Item Weight",
+		"value": "1.6 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "1.6 x 1.6 x 0.3 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "1.6 x 1.6 x 0.3 inches"
+	}, {
+		"info": "Color",
+		"value": "RGB"
+	}, {
+		"info": "Processor Brand",
+		"value": "AMD"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Computer Memory Type",
+		"value": "DDR4 SDRAM"
+	}, {
+		"info": "Manufacturer",
+		"value": "AMD"
+	}, {
+		"info": "ASIN",
+		"value": "B07B428M7F"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "April 13, 2018"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 11,744 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#27 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/AMD-Ryzen-Processor-Wraith-Cooler/product-reviews/B07B428M7F/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i5-9500 Desktop Processor 6 Cores up to 4.GHz LGA1151 300 Series 65W (BX80684I59500)",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3000 MHz"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "Intel i5"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I59500"
+	}, {
+		"info": "Item Weight",
+		"value": "3.53 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "6"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07S4MSXJL"
+	}, {
+		"info": "Date First Available",
+		"value": "May 15, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.6 out of 5 stars 41 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.6 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#106 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-i5-9500-Desktop-Processor-LGA1151/product-reviews/B07S4MSXJL/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz Unlocked\u00a0 LGA1200 (Intel 400 Series Chipset) 125W",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX8070110900K"
+	}, {
+		"info": "Hardware Platform",
+		"value": "PC"
+	}, {
+		"info": "Item Weight",
+		"value": "15.2 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "3.54 x 5.24 x 6.1 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "3.54 x 5.24 x 6.1 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "10"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B086MHSTVD"
+	}, {
+		"info": "Date First Available",
+		"value": "May 20, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.7 out of 5 stars 283 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.7 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#37 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-i9-10900K-Desktop-Processor-Unlocked/product-reviews/B086MHSTVD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i7-9700K Desktop Processor 8 Cores up to 4.9 GHz Turbo unlocked LGA1151 300 Series 95W",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3600 MHz"
+	}, {
+		"info": "Number of USB 2.0 Ports",
+		"value": "1"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I79700K"
+	}, {
+		"info": "Item Weight",
+		"value": "1.59 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 3.98 x 2.76 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 3.98 x 2.76 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Computer Memory Type",
+		"value": "DDR4 SDRAM"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07HHN6KBZ"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "October 8, 2018"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 6,281 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#7 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "Asus Prime Z390-A Motherboard LGA1151 (Intel 8th And 9th Gen) ATX DDR4 DP HDMI M.2 USB 3.1 Gen2\u2026",
+	"freq_bought_link": "/Prime-Z390-Motherboard-LGA1151-Gigabit/dp/B07HCY7K9L/ref=pd_bxgy_2/138-4766401-8256700?_encoding=UTF8&pd_rd_i=B07HCY7K9L&pd_rd_r=14afb4ae-2a47-42fc-8090-e1f460a7ce5c&pd_rd_w=eAzzv&pd_rd_wg=6XAkl&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=S5NJRXAAC558S33ABS1X&psc=1&refRID=S5NJRXAAC558S33ABS1X",
+	"link_to_all_reviews": "/Intel-i7-9700K-Desktop-Processor-Unlocked/product-reviews/B07HHN6KBZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i5-9600K Desktop Processor 6 Cores up to 4.6 GHz Turbo unlocked LGA1151 300 Series 95W",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3700 MHz"
+	}, {
+		"info": "Number of USB 2.0 Ports",
+		"value": "1"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I59600K"
+	}, {
+		"info": "Item Weight",
+		"value": "2.4 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 3.98 x 2.76 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 3.98 x 2.76 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "6"
+	}, {
+		"info": "Computer Memory Type",
+		"value": "DDR4 SDRAM"
+	}, {
+		"info": "Batteries",
+		"value": "1 Lithium ion batteries required."
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07HHLX1R8"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "September 19, 2018"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 5,737 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#20 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-i5-9600K-Desktop-Processor-Unlocked/product-reviews/B07HHLX1R8/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i7-9700 Desktop Processor 8 Cores up to 4.7 GHz LGA1151 300 Series 65W",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3000 MHz"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "Intel i7"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I79700"
+	}, {
+		"info": "Item Weight",
+		"value": "8.5 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07S6CRLVD"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "May 15, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.7 out of 5 stars 489 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.7 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#25 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "ARCTIC MX-4 - Thermal Compound Paste For Coolers | Heat Sink Paste | Composed of Carbon Micro\u2026",
+	"freq_bought_link": "/ARCTIC-MX-4-Compound-Micro-particles-Durability/dp/B0795DP124/ref=pd_bxgy_2/144-0344822-8691262?_encoding=UTF8&pd_rd_i=B0795DP124&pd_rd_r=85bdfa72-8d34-472b-bfc1-8a56fa31d407&pd_rd_w=zBiUp&pd_rd_wg=dJVWk&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=2Y3KHQFQ2MZ8SACS9H2Y&psc=1&refRID=2Y3KHQFQ2MZ8SACS9H2Y",
+	"link_to_all_reviews": "/Intel-i7-9700-Desktop-Processor-LGA1151/product-reviews/B07S6CRLVD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i5-9400 Desktop Processor 6 Cores 2. 90 GHz up to 4. 10 GHz Turbo LGA1151 300 Series 65W Processors BX80684I59400",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "2900 MHz"
+	}, {
+		"info": "Graphics Coprocessor",
+		"value": "Intel UHD Graphics 630"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "BX80684I59400"
+	}, {
+		"info": "Item model number",
+		"value": "BX80684I59400"
+	}, {
+		"info": "Item Weight",
+		"value": "12 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 2.76 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "6"
+	}, {
+		"info": "Computer Memory Type",
+		"value": "DDR4 SDRAM"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07MGZ9FJZ"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "January 7, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 1,371 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#15 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": "GIGABYTE B365M DS3H (LGA1151/Intel/Micro ATX/USB 3.1 Gen 1 (USB3.0) Type A/DDR4/Motherboard)",
+	"freq_bought_link": "/Gigabyte-B365M-DS3H-LGA1151-Motherboard/dp/B07T6N8N56/ref=pd_bxgy_2/146-4928742-0148955?_encoding=UTF8&pd_rd_i=B07T6N8N56&pd_rd_r=d3435016-79d1-48a0-add8-6cc53468a9d9&pd_rd_w=ZPBK7&pd_rd_wg=wXUFr&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=JH2C5CJMBEZ1B6N29XMZ&psc=1&refRID=JH2C5CJMBEZ1B6N29XMZ",
+	"link_to_all_reviews": "/Intel-i5-9400-Processor-Processors-984507/product-reviews/B07MGZ9FJZ/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel BX80684I79700KF Intel Core i7-9700KF Desktop Processor 8 Cores up to 4.9 GHz Turbo Unlocked without Processor Graphics LGA1151 300 Series 95W",
+	"product_tech_spec": [{
+		"info": "Memory Speed",
+		"value": "3600 MHz"
+	}],
+	"other_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Series",
+		"value": "9th Gen Intel Core i7-9700KF Desktop Processor"
+	}, {
+		"info": "Item model number",
+		"value": "999DLA"
+	}, {
+		"info": "Item Weight",
+		"value": "0.035 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "4.57 x 1.73 x 3.98 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "4.57 x 1.73 x 3.98 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "8"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B07MJXYX62"
+	}, {
+		"info": "Is Discontinued By Manufacturer",
+		"value": "No"
+	}, {
+		"info": "Date First Available",
+		"value": "January 7, 2019"
+	}],
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.8 out of 5 stars 1,279 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.8 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#58 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-BX80684I79700KF-i7-9700KF-Processor-Unlocked/product-reviews/B07MJXYX62/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Core i3-10300 Desktop Processor 4 Cores up to 4.4 GHz\u00a0 LGA1200 (Intel 400 Series chipset) 65W",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX8070110300"
+	}, {
+		"info": "Item Weight",
+		"value": "7.4 ounces"
+	}, {
+		"info": "Package Dimensions",
+		"value": "4.65 x 4.21 x 2.87 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "4"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B086M8V695"
+	}, {
+		"info": "Date First Available",
+		"value": "May 27, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 5.0 out of 5 stars 7 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 5.0 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#238 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-i3-10300-Desktop-Processor-LGA1200/product-reviews/B086M8V695/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+} ,{"name": "Intel Celeron G-5920 Desktop Processor 2 Cores 3.5 GHz LGA1200 (Intel 400 Series chipset) 58W, Model Number: BX80701G5920",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX80701G5920"
+	}, {
+		"info": "Item Weight",
+		"value": "9.6 ounces"
+	}, {
+		"info": "Package Dimensions",
+		"value": "4.69 x 4.25 x 2.83 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "2"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B086MG1C7P"
+	}, {
+		"info": "Date First Available",
+		"value": "May 27, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 5.0 out of 5 stars 4 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 5.0 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#89 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": null
+} ,{"name": "Intel Core i9-10900K Desktop Processor 10 Cores up to 5.3 GHz Unlocked\u00a0 LGA1200 (Intel 400 Series Chipset) 125W",
+	"product_tech_spec": [{
+		"info": "Brand",
+		"value": "Intel"
+	}, {
+		"info": "Item model number",
+		"value": "BX8070110900K"
+	}, {
+		"info": "Hardware Platform",
+		"value": "PC"
+	}, {
+		"info": "Item Weight",
+		"value": "15.2 ounces"
+	}, {
+		"info": "Product Dimensions",
+		"value": "3.54 x 5.24 x 6.1 inches"
+	}, {
+		"info": "Item Dimensions  LxWxH",
+		"value": "3.54 x 5.24 x 6.1 inches"
+	}, {
+		"info": "Processor Brand",
+		"value": "Intel"
+	}, {
+		"info": "Processor Count",
+		"value": "10"
+	}, {
+		"info": "Manufacturer",
+		"value": "Intel"
+	}, {
+		"info": "ASIN",
+		"value": "B086MHSTVD"
+	}, {
+		"info": "Date First Available",
+		"value": "May 20, 2020"
+	}],
+	"other_tech_spec": null,
+	"product_addl_info": [{
+		"info": "Customer Reviews",
+		"value": "/*\n* Fix for UDP-1061. Average customer reviews has a small extra line on hover\n* https://omni-grok.amazon.com/xref/src/appgroup/websiteTemplates/retail/SoftlinesDetailPageAssets/udp-intl-lock/src/legacy.css?indexName=WebsiteTemplates#40\n*/\n.noUnderline a:hover {\ntext-decoration: none;\n} 4.7 out of 5 stars 283 ratings P.when('A', 'ready').execute(function(A) {\nA.declarative('acrLink-click-metrics', 'click', { \"allowLinkDefault\" : true }, function(event){\nif(window.ue) {\nue.count(\"acrLinkClickCount\", (ue.count(\"acrLinkClickCount\") || 0) + 1);\n}\n});\n}); P.when('A', 'cf').execute(function(A) {\nA.declarative('acrStarsLink-click-metrics', 'click', { \"allowLinkDefault\" : true },  function(event){\nif(window.ue) {\nue.count(\"acrStarsLinkWithPopoverClickCount\", (ue.count(\"acrStarsLinkWithPopoverClickCount\") || 0) + 1);\n}\n});\n}); 4.7 out of 5 stars"
+	}, {
+		"info": "Best Sellers Rank",
+		"value": "#37 in Computer CPU Processors"
+	}],
+	"seller": null,
+	"seller_link": null,
+	"freq_bought": null,
+	"freq_bought_link": null,
+	"link_to_all_reviews": "/Intel-i9-10900K-Desktop-Processor-Unlocked/product-reviews/B086MHSTVD/ref=cm_cr_dp_d_show_all_btm?ie=UTF8&reviewerType=all_reviews"
+}]
