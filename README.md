@@ -106,6 +106,9 @@ The search.py uses different packages, libraries and file format like:
 
 ## Data cleaning
 
+### Legal Terms:
+
+All data has been used only for educational purposes
 
 
 
