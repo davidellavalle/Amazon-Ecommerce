@@ -7,12 +7,12 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 ## Table of contents
 
-* [Business Understanding]
-* [Data Understanding]
-* [Data cleaning]
-* [Mysql]
+* [Business Understanding](https://github.com/davidellavalle/Web-Scraping#business-understanding)
+* [Data Understanding](https://github.com/davidellavalle/Web-Scraping#data-understanding)
+* [Data cleaning](https://github.com/davidellavalle/Web-Scraping#data-cleaning)
+* [Mysql](https://github.com/davidellavalle/Web-Scraping#mysql)
 * []
-* []
+* [Legal Terms)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
@@ -119,8 +119,9 @@ The [search files](https://github.com/davidellavalle/Web-Scraping/blob/main/clea
 Extracting the Asin from the Urls required some additional work "cutting" the Urls into pieces and keeping just the value of interest.
 
 The [product files](https://github.com/davidellavalle/Web-Scraping/blob/main/clean_product_processors.ipynb) instead required a way longer and more complicated journey: when scraping I retrieved all possible data that on the Amazon website appeared to be stored in different tables.  
-To open this .ipynb please consider using [nbviewer](https://nbviewer.jupyter.org/) and paste the github url in the bar.
+To open this .ipynb please consider using [nbviewer](https://nbviewer.jupyter.org/) and paste the github url in the bar.  
 When importing this data in my Visual Studio Code notebook I realized how nested it was (Dictionary in dictionary) with several values of interest being stored in the same cells of the df.  
+   
 Please follow step by step the notebook to see all required steps until data was finally cleaned for my purpose.
 
 This process has been repeated 8 times for 8 different Product types: Processors, Laptops, Cameras, Mouses, Monitors, Headphones, Smartphones, Keyboards. I will here link just the final csv of cleaned data.  
@@ -128,10 +129,11 @@ This process has been repeated 8 times for 8 different Product types: Processors
 ## Mysql
 
 The cleaned data has been subsequently pushed to Mysql for further analysis.  
+ 
 To achieve this result I used [PyMySQL](https://pymysql.readthedocs.io/en/latest/user/index.html) (here all instructions to install it), an interface for connecting to a MySQL database server from Python. It implements the Python Database API v2. 0 and contains a pure-Python MySQL client library. Other availbale options are MySQL/connector for Python or MySQLdb.
 
 
-### Legal Terms:
+### Legal Terms
 
 All data has been used only for educational purpose.
 
