@@ -77,7 +77,7 @@ A deep knowledge of HTML is not needed, the foundation will be enough, know what
  
 The following process has been repeated 8 times for 8 different Product types: Processors, Laptops, Cameras, Mouses, Monitors, Headphones, Smartphones, Keyboards.
 
-- The first step is to create a txt file (**Create search_urls.txt**) which will contain all the product pages. Through a for loop I will be able to scrape the website and get all the first 400 Urls (limit declared in the range).
+- The first step is to create a txt file (**Create search_urls.txt**) which will contain all the Urls of the products. Through a for loop I will be able to scrape the website and get all the first 400 Urls (limit declared in the range).
 The output of this action is to be find in the **search_urls.txt**
 
 Once all the Urls have been scraped it is time to extract the information about the articles.  
