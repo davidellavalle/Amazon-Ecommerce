@@ -132,6 +132,7 @@ The cleaned data has been subsequently pushed to Mysql for further analysis.
  
 To achieve this result I used [PyMySQL](https://pymysql.readthedocs.io/en/latest/user/index.html) (here all instructions to install it), an interface for connecting to a MySQL database server from Python. It implements the Python Database API v2. 0 and contains a pure-Python MySQL client library. Other availbale options are MySQL/connector for Python or MySQLdb.
 
+More details about how to create the data source, creating the engine and the connection to Mysql are povided in the [Python notebook](https://github.com/davidellavalle/Web-Scraping/blob/main/pushtoSQL.ipynb). 
 
 ### Legal Terms
 
