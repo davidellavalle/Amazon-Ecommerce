@@ -5,6 +5,15 @@ The customer focus was on Electronic products, mainly Laptops, Headphones, Proce
 No sales nor product data were provided by the customer.  
 Our team had to first focus on knowing the domain in details, understand the business model and then look for appropriate data sources to come up with conlusions and strategies to determine strenghts and weaknesses of this form of business.
 
+## Table of contents
+
+* [Business Understanding]
+* [Data Understanding]
+* [Data cleaning]
+* [Mysql]
+* []
+* []
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
 </p>  
@@ -13,7 +22,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 ## Business Understanding
 
-### E-commerce
+### E-commerce - domain
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png">
@@ -106,13 +115,25 @@ The search.py uses different packages, libraries and file format like:
 
 ## Data cleaning
 
-The cleaning of the data for this project has been a long and complicated journey.
-The search file were quite easy to extract
-Not only processors but accessories
+The [search files](https://github.com/davidellavalle/Web-Scraping/blob/main/clean_search_processor.ipynb) were quite easy to clean, they required mainly extracting data from strings, deleting some additional text and changing Data type to the appropriate one.   
+Extracting the Asin from the Urls required some additional work "cutting" the Urls into pieces and keeping just the value of interest.
+
+The [product files](https://github.com/davidellavalle/Web-Scraping/blob/main/clean_product_processors.ipynb) instead required a way longer and more complicated journey: when scraping I retrieved all possible data that on the Amazon website appeared to be stored in different tables.  
+To open this .ipynb please consider using [nbviewer](https://nbviewer.jupyter.org/) and paste the github url in the bar.
+When importing this data in my Visual Studio Code notebook I realized how nested it was (Dictionary in dictionary) with several values of interest being stored in the same cells of the df.  
+Please follow step by step the notebook to see all required steps until data was finally cleaned for my purpose.
+
+This process has been repeated 8 times for 8 different Product types: Processors, Laptops, Cameras, Mouses, Monitors, Headphones, Smartphones, Keyboards. I will here link just the final csv of cleaned data.  
+
+## Mysql
+
+The cleaned data has been subsequently pushed to Mysql for further analysis.  
+To achieve this result I used [PyMySQL](https://pymysql.readthedocs.io/en/latest/user/index.html) (here all instructions to install it), an interface for connecting to a MySQL database server from Python. It implements the Python Database API v2. 0 and contains a pure-Python MySQL client library. Other availbale options are MySQL/connector for Python or MySQLdb.
+
 
 ### Legal Terms:
 
-All data has been used only for educational purposes
+All data has been used only for educational purpose.
 
 
 
