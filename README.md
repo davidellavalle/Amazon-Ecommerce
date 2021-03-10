@@ -106,6 +106,10 @@ The search.py uses different packages, libraries and file format like:
 
 ## Data cleaning
 
+The cleaning of the data for this project has been a long and complicated journey.
+The search file were quite easy to extract
+Not only processors but accessories
+
 ### Legal Terms:
 
 All data has been used only for educational purposes
