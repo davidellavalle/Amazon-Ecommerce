@@ -1,4 +1,4 @@
-# Web-Scraping
+# Amazon, an analysis on Electronics
 
 For the current project we were contacted by an international company willing to open a new E-commerce business in EU and with no background with this type of business.  
 The customer focus was on Electronic products, mainly Laptops, Headphones, Processors, Mouses, Cameras, Monitors...  
