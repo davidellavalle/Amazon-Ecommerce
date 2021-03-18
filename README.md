@@ -8,7 +8,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 ## Table of contents
 
 * [Business Understanding](https://github.com/davidellavalle/Web-Scraping#business-understanding)
-* [Data Understanding](https://github.com/davidellavalle/Web-Scraping#data-understanding)
+* [Data Extraction](https://github.com/davidellavalle/Web-Scraping#data-understanding)
 * [Data cleaning](https://github.com/davidellavalle/Web-Scraping#data-cleaning)
 * [Mysql](https://github.com/davidellavalle/Web-Scraping#mysql)
 * []
@@ -62,7 +62,7 @@ What are the three top Ecommerce businesses in Europe?
 
 
 
-## Data Understanding
+## Data Extraction
 
 ### Web Scraping
 
