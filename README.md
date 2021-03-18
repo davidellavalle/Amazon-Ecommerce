@@ -128,7 +128,7 @@ This process has been repeated 8 times for 8 different Product types: Processors
 
 ## Mysql
 
-The cleaned data has been subsequently pushed to Mysql for further analysis.  
+The cleaned data has been subsequently pushed to Mysql for further analysis - [link](https://github.com/davidellavalle/Amazon-an-analysis-on-Electronics/tree/main/Sql) 
  
 To achieve this result I used [PyMySQL](https://pymysql.readthedocs.io/en/latest/user/index.html) (here all instructions to install it), an interface for connecting to a MySQL database server from Python. It implements the Python Database API v2. 0 and contains a pure-Python MySQL client library. Other availabale options are MySQL/connector for Python or MySQLdb.
 
