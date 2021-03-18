@@ -1,4 +1,4 @@
-# Web-Scraping
+# Amazon, an analysis on Electronics
 
 For the current project we were contacted by an international company willing to open a new E-commerce business in EU and with no background with this type of business.  
 The customer focus was on Electronic products, mainly Laptops, Headphones, Processors, Mouses, Cameras, Monitors...  
@@ -12,7 +12,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 * [Data cleaning](https://github.com/davidellavalle/Web-Scraping#data-cleaning)
 * [Mysql](https://github.com/davidellavalle/Web-Scraping#mysql)
 * []
-* [Legal Terms)
+* [Legal Terms](https://github.com/davidellavalle/Amazon-Ecommerce#legal-terms)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248756-ff3b2e80-7f72-11eb-8db9-3626722be5d8.png">
@@ -22,7 +22,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 
 ## Business Understanding
 
-### E-commerce - domain
+### E-commerce
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73824871/110248484-c058a900-7f71-11eb-9765-3fc1deeef039.png">
