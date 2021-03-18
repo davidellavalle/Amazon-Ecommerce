@@ -11,7 +11,7 @@ Our team had to first focus on knowing the domain in details, understand the bus
 * [Data Extraction](https://github.com/davidellavalle/Web-Scraping#data-understanding)
 * [Data cleaning](https://github.com/davidellavalle/Web-Scraping#data-cleaning)
 * [Mysql](https://github.com/davidellavalle/Web-Scraping#mysql)
-* []
+* [Tableau](https://github.com/davidellavalle/Amazon-an-analysis-on-Electronics#tableau)
 * [Legal Terms](https://github.com/davidellavalle/Amazon-Ecommerce#legal-terms)
 
 <p align="center">
